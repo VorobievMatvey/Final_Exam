@@ -19,7 +19,8 @@
 --------------------------
 
 ```bash
-python3 -m pytest -v --driver Chrome --driver-path ~/chromedriver tests/*```
+python3 -m pytest -v --driver Chrome --driver-path ~/chromedriver tests/*
+```
 
 
  
